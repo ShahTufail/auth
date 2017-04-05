@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  b_id: 1
+  branch_head: MyString
+  worker_id: 1
+
+two:
+  name: MyString
+  b_id: 1
+  branch_head: MyString
+  worker_id: 1
